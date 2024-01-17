@@ -1,9 +1,7 @@
 const a = [ 1,2,3,4,5,6]
 
-let index = Math.floor(Math.random() * arr.length);
+Math.floor(Math.random() * 6) + 1;
 
-
-let random = arr[index];
  
 console.log(random);
 
