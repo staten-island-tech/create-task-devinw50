@@ -20,7 +20,5 @@ function rollDice() {
     } else {
       document.getElementById('result').innerHTML = 'Try again. The rolled number was ' + rolledNumber + '.';
     }
-  } else {
-    document.getElementById('result').innerHTML = 'All numbers have been rolled. Please reset the game.';
-  }
+  } 
 }
